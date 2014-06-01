@@ -1,5 +1,5 @@
 hospital_quality
 ================
-P Programming @Coursera.org
+R Programming @Coursera.org
 Programming Assignment 3
 
